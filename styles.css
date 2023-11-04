@@ -7,6 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: hsl(0, 0%, 94%);
+    overflow-y: hidden;
 }
 .main{
     margin:90px 30px;
@@ -91,7 +92,7 @@ span{
     .main{
         width: 600px;
         height:400px;
-        margin:20% auto;
+        margin:10% auto;
     }
     
     .inputDivs {
